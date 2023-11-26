@@ -1,5 +1,5 @@
 ﻿# Simon_Say_Game
 
-- > How to play Simon? You can watch this video to understand working of this game and then start the game. <br>https://www.youtube.com/watch?v=EWJ5uYwQJGU
+- > How to play Simon? You can watch this video to understand working of this game and then start the game. <br><a href = "https://www.youtube.com/watch?v=EWJ5uYwQJGU">Youtube</a>
 
-- > Simon_Says_Game(Link of Game)<br>https://hustlewithnachiket.github.io/Simon_Say_Game/src_Code/
+- > Simon_Says_Game(Link of Game)<br><a href = "https://hustlewithnachiket.github.io/Simon_Say_Game/src_Code/">Live Demo</a>
